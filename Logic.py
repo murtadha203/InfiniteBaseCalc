@@ -481,7 +481,7 @@ def calculate(expression, base):
 
     res = eval(newExpression) #function eval is built-in function to evaluate string to answer
 
-    return b10_To_bn(res, base) #return it to original base
+    return [b10_To_bn(res, base), check] #return it to original base
 
 
 #Github : murtadha203/InfiniteBaseCalc
