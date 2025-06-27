@@ -47,7 +47,7 @@ InfiniteBaseCalc also includes a powerful calculator that can evaluate any expre
 
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/InfiniteBaseCalc.git
+git clone https://github.com/murtadha203/InfiniteBaseCalc.git
 cd InfiniteBaseCalc
 ```
 Install dependencies (only Tkinter is needed for the interface):
