@@ -58,7 +58,7 @@ pip install tk
 
 Run the program:
 ```sh
-python interface.py
+python Interface.py
 ```
 
 ## Contributing
