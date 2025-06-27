@@ -15,7 +15,7 @@ def convert(nb, b1, b2):
     nb10 = bn_To_b10(nb, b1) #convert to base 10
     nbnew = b10_To_bn(nb10, b2) #convert to new base
 
-    return nbnew
+    return [nbnew, check]
 
 
 def b10_To_bn(nb10, b):
